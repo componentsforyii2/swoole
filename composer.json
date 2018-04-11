@@ -1,0 +1,13 @@
+{
+    "name": "componentsforyii2/swoole",
+    "description": "YII2+SWOOLE组件",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Yuanshuai",
+            "email": "yuanshuai@mybns.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
